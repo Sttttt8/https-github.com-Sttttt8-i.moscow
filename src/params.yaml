@@ -1,0 +1,103 @@
+{
+    "fulfillment": {
+        "settings": {
+            "default": {
+                "url": ""
+            },
+            "channels": []
+        },
+        "actions": [
+            {
+                "state": "/newNode_26",
+                "color": "#FFFFFF",
+                "action": "Шаг 26"
+            },
+            {
+                "state": "/newNode_30",
+                "color": "#E6E1F5",
+                "action": "Конец"
+            },
+            {
+                "state": "/newNode_31",
+                "color": "#D2E4F7",
+                "action": "Вопрос"
+            },
+            {
+                "state": "/newNode_32",
+                "color": "#FFFFFF",
+                "action": "Шаг 32"
+            },
+            {
+                "state": "/newNode_33",
+                "color": "#D2E4F7",
+                "action": "Уточнение"
+            },
+            {
+                "state": "/newNode_18",
+                "color": "#FFFFFF",
+                "action": "Шаг 18"
+            },
+            {
+                "state": "/newNode_16",
+                "color": "#D2E4F7",
+                "action": "Вопрос"
+            },
+            {
+                "state": "/newNode_19",
+                "color": "#FFFFFF",
+                "action": "Шаг 19"
+            },
+            {
+                "state": "/newNode_20",
+                "color": "#FFFFFF",
+                "action": "Шаг 20"
+            },
+            {
+                "state": "/newNode_23",
+                "color": "#FFFFFF",
+                "action": "Шаг 23"
+            },
+            {
+                "state": "/newNode_24",
+                "color": "#E6E1F5",
+                "action": "Приветствие"
+            },
+            {
+                "state": "/newNode_25",
+                "color": "#FFFFFF",
+                "action": "Шаг 25"
+            },
+            {
+                "state": "/newNode_14",
+                "color": "#FFFFFF",
+                "action": "Шаг 14"
+            },
+            {
+                "state": "/newNode_21",
+                "color": "#F7DAE1",
+                "action": "Оператор"
+            },
+            {
+                "state": "/newNode_22",
+                "color": "#FFFFFF",
+                "action": "Шаг 22"
+            }
+        ],
+        "hasTransferToOperatorBlock": "true",
+        "conditions": {},
+        "groups": [],
+        "startSettings": {
+            "blockId": "/newNode_26",
+            "newLogicCatchAll": false
+        }
+    },
+    "catchAll": {
+        "phrases": [
+            "Извините, непонятно"
+        ],
+        "transferToOperator": {
+            "enable": true,
+            "messageToUser": "Вы будете переведены на оператора"
+        }
+    }
+}

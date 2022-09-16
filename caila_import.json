@@ -1,0 +1,21 @@
+{
+  "project" : {
+    "id" : "i_msc2-726836-bYP",
+    "name" : "i_msc2-726836-bYP",
+    "folder" : "/jaicp"
+  },
+  "settings" : {
+    "language" : "ru",
+    "spellingCorrection" : false,
+    "classificationAlgorithm" : "sts",
+    "timezone" : "UTC",
+    "extendedSettings" : {
+      "tokenizerEngine" : "default"
+    },
+    "businessShared" : false,
+    "business" : true
+  },
+  "intents" : [ ],
+  "entities" : [ ],
+  "enabledSystemEntities" : [ ]
+}

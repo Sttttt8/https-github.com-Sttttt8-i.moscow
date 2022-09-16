@@ -1,0 +1,127 @@
+{
+  "positions" : [ {
+    "id" : "/newNode_26",
+    "name" : "col#0",
+    "actionTitles" : [ null ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_24",
+    "name" : "col#1",
+    "actionTitles" : [ null, null ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_25",
+    "name" : "col#1",
+    "boundsTo" : "/newNode_24",
+    "actionTitles" : [ null ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_16",
+    "name" : "col#2",
+    "actionTitles" : [ null ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_19",
+    "name" : "col#2",
+    "boundsTo" : "/newNode_16",
+    "actionTitles" : [ ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_20",
+    "name" : "col#2",
+    "actionTitles" : [ null, null ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_12",
+    "name" : "col#2",
+    "boundsTo" : "/newNode_20",
+    "actionTitles" : [ ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_23",
+    "name" : "col#2",
+    "actionTitles" : [ null, null ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_13",
+    "name" : "col#2",
+    "boundsTo" : "/newNode_23",
+    "actionTitles" : [ ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_18",
+    "name" : "col#3",
+    "actionTitles" : [ null ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_33",
+    "name" : "col#4",
+    "actionTitles" : [ null, null ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_15",
+    "name" : "col#4",
+    "boundsTo" : "/newNode_33",
+    "actionTitles" : [ ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_14",
+    "name" : "col#4",
+    "actionTitles" : [ null ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_31",
+    "name" : "col#5",
+    "actionTitles" : [ "Текст", null ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_32",
+    "name" : "col#5",
+    "boundsTo" : "/newNode_31",
+    "actionTitles" : [ null ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_21",
+    "name" : "col#5",
+    "boundsTo" : "",
+    "actionTitles" : [ ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_30",
+    "name" : "col#6",
+    "actionTitles" : [ null, null ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_17",
+    "name" : "col#6",
+    "boundsTo" : "/newNode_30",
+    "actionTitles" : [ ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_22",
+    "name" : "col#6",
+    "boundsTo" : "",
+    "title" : "Отправить данные оператору",
+    "actionTitles" : [ ],
+    "x" : 0,
+    "y" : 0
+  } ]
+}
